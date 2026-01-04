@@ -23,3 +23,18 @@ main {
   width: 100%;
   height: auto;
 }
+
+footer {
+  height: 150px;
+  padding: 20px;
+  background-color: #193968;
+  color: white;
+  border-top: 1px solid white;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .images {
+    grid-template-columns: 1fr;
+  }
+}
