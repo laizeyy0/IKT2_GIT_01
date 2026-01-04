@@ -1,0 +1,13 @@
+header {
+  height: 100px;
+  padding: 10px;
+  background-color: #3939c8;
+  color: white;
+  box-sizing: border-box;
+}
+
+main {
+  background-color: #aaaa;
+  color: black;
+  padding: 20px;
+}
